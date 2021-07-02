@@ -14,4 +14,4 @@ Once the binary is compiled just run it and enjoy your game!
 ```
     bin/game
 ```
-![](snake game.gif)
+![](https://i.gyazo.com/3de8a90975d77d75e3f8b41ffbf450e6.gif)
